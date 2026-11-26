@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [6.0.1] - 2026-11-25
+
+### Changed
+
+- Bump jose-clj (optional dependency) to 0.9.2.
+
 ## [6.0.0] - 2026-08-30
 
 ### Security
